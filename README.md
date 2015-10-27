@@ -3,7 +3,7 @@
 [![npm package](https://img.shields.io/npm/v/redux-fsa-linter.svg?style=flat-square)](https://www.npmjs.org/package/redux-fsa-linter)
 [![build status](https://img.shields.io/travis/maxmechanic/redux-fsa-linter/master.svg?style=flat-square)](https://travis-ci.org/maxmechanic/redux-fsa-linter)
 
-Get feedback on the shape of your actions while developing.
+Redux middleware that validates incoming actions with [Flux Standard Action](https://github.com/acdlite/flux-standard-action).
 
 ![linting](https://cloud.githubusercontent.com/assets/1638576/10747152/5b05b3e2-7c28-11e5-9593-1f542a02c8f0.gif)
 
