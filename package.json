@@ -26,7 +26,7 @@
   },
   "name": "redux-fsa-linter",
   "description": " Redux middleware to lint for Flux Standard Actions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
