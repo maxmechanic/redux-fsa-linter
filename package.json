@@ -23,5 +23,27 @@
   },
   "standard": {
     "parser": "babel-eslint"
-  }
+  },
+  "name": "redux-fsa-linter",
+  "description": " Redux middleware to lint for Flux Standard Actions",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmechanic/redux-fsa-linter.git"
+  },
+  "keywords": [
+    "redux",
+    "flux",
+    "flux-standard-action"
+  ],
+  "author": "maxmechanic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxmechanic/redux-fsa-linter/issues"
+  },
+  "homepage": "https://github.com/maxmechanic/redux-fsa-linter#readme"
 }
