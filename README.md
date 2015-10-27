@@ -5,6 +5,8 @@
 
 Get feedback on the shape of your actions while developing.
 
+![linting](https://cloud.githubusercontent.com/assets/1638576/10747152/5b05b3e2-7c28-11e5-9593-1f542a02c8f0.gif)
+
 ## Installation
 ```
 npm install redux-fsa-linter --save-dev
